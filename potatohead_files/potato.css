@@ -41,7 +41,7 @@ label {
 
 #eyebrows_image { top: 102px; left: 109px; z-index: 5;}
 
-#glasses_image { top: 121px; left: 97px; z-index: 7;}
+#glasses_image { top: 121px; left: 97px; z-index: 7; width:160px; height:84px;}
             
 #hat_image { top: 28px; left: 101px; z-index: 10;}
 
